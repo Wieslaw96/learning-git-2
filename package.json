@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Wieslaw96/learning-git-2#readme",
   "devDependencies": {
     "browser-sync": "^2.27.10",
-    "html-validate": "^7.7.1"
+    "html-validate": "^7.7.1",
+    "mkdirp": "^1.0.4"
   }
 }
